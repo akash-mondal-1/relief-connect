@@ -6,7 +6,7 @@ A full-stack volunteer coordination platform that connects people in need with v
 
 ## 🌐 Live Demo
 
-* Frontend: https://aidmatch-app.netlify.app
+* Frontend: https://relief-connect.netlify.app/
 * Backend API: https://volunteer-backend-production-c181.up.railway.app
 * API Docs: https://volunteer-backend-production-c181.up.railway.app/docs
 
